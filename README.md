@@ -12,7 +12,7 @@ subject to      s_min(A)>=k
                 s_max(A)<=K
 				det(A)>=0
 ```
-over variables matrix variable `A`, where `s_min(A)` and `s_max(A)` are the minimal and maximal singular values of the matrix `A`.
+over the matrix variable `A`, where `s_min(A)` and `s_max(A)` are the minimal and maximal singular values of the matrix `A`.
 
 - `example_BarDeformation.m` demonstrates volumetric mesh optimization problems with constraints on singular values. Algorithm 2 of the paper is applied to some example optimization problems, generating some of the example deformations of Figure 2 in the paper. See section 6.1 in the paper for additional details.
 
