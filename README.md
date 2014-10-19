@@ -14,7 +14,7 @@ subject to      s_min(A)>=k
 ```
 over the matrix variable `A`, where `s_min(A)` and `s_max(A)` are the minimal and maximal singular values of the matrix `A`.
 
-- `example_BarDeformation.m` demonstrates volumetric mesh optimization problems with constraints on singular values. Algorithm 2 of the paper is applied to some example optimization problems, generating some of the example deformations of Figure 2 in the paper. See section 6.1 in the paper for additional details.
+- `example_BarDeformation.m` demonstrates volumetric mesh optimization problems with constraints on singular values. Algorithm 2 of the paper is applied to some example optimization problems, generating some of the example deformations of Figure 2 in the paper. See section 6.1 in the paper for additional details. Either run the entire code for generating all examples (might take a while), or the relevant code block for your desired example.
 
 - `example_ExtremalQuasiConformal.m` implements an algorithm for computing extremal quasiconformal mappings of volumetric meshes (i.e., minimizing maximal conformal distortion). The code reproduces the example presented in Figure 1. See section 6.1 for additional details.
 
