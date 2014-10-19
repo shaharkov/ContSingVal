@@ -2,7 +2,7 @@
 % Example script:
 % Implementing an algorithm for computing extremal quasiconformal mappings 
 % of volumetric meshes (i.e., minimizing maximal conformal distortion).
-% The code regenerates the example presented in Figure 1. 
+% The code reproduces the example presented in Figure 1. 
 % See section 6.1 for additional details.
 % Modify N to change the cube size.
 %
