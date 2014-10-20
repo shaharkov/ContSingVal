@@ -1,7 +1,7 @@
 Controlling Singular Values with Semidefinite Programming
 ====
 
-A Matlab implementation of the paper ["Controlling Singular Values with Semidefinite Programming"](http://www.wisdom.weizmann.ac.il/~shaharko/).
+A Matlab implementation of the paper ["Controlling Singular Values with Semidefinite Programming"](http://www.wisdom.weizmann.ac.il/~shaharko/ContSingVal.html).
 
 ----
 This package includes three examples:
